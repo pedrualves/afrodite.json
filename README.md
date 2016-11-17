@@ -1,10 +1,10 @@
 # Afrodite.json
 
-Simplesmente o maior livro de receitas em língua portuguesa que você irá encontrar :)
+Simplesmente um grande livro de receitas em língua portuguesa
 
-Total de receitas: **8183**
+Total de receitas: **1353**
 
-Informações técnicas: o JSON foi obtido a partir de um web crawler escrito em JS e rodado em Node.js.
+Informações técnicas: o JSON foi obtido a partir do projeto: https://github.com/adrianosferreira/afrodite.json
 
 ## Estrutura do JSON
 
